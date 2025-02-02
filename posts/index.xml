@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Grace&#39;s Bolg</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Grace&#39;s Bolg</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2025 17:04:03 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 02 Feb 2025 17:04:03 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Chinese New Year in 2025 will begin on &lt;strong&gt;Saturday, January 29th&lt;/strong&gt;. This marks the start of the &lt;strong&gt;Year of the Snake&lt;/strong&gt; in the Chinese zodiac, according to the lunar calendar. Chinese New Year, also known as the &lt;strong&gt;Spring Festival&lt;/strong&gt; (春节), is the most significant traditional holiday in China and is celebrated by millions of people worldwide, particularly in countries with large Chinese communities.&lt;/p&gt;
+&lt;h3 id=&#34;key-features-of-chinese-new-year-2025&#34;&gt;Key Features of Chinese New Year 2025:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Zodiac Sign - The Snake&lt;/strong&gt;:
+2025 will be the year of the Wood Snake, which is associated with intelligence, charm, and grace. People born in the Year of the Snake are believed to be introspective and wise, often pursuing goals with careful planning and precision.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
